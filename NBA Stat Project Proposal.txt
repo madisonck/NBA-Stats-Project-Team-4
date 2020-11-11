@@ -1,0 +1,18 @@
+NBA Statistics Project
+
+We will be using NBA stats to determine certain tendencies that aren't as apparent and drawing them out. We want to see how different unknown factors influence scoring, winning and advantages/bias. 
+
+NBA project ideas
+Best and worst value players?
+Free throw percentage bubble vs normal?
+Home field advantage bubble vs normal?
+Ref tendencies?
+All shooting percentages?
+Does number of three-point attempts increase playoff chances?
+Does a superstar coach allow to players to play better or draw superstar players?
+Does coaches career win percentage affect chances of making playoffs?
+Left handed shooting vs right handed shooting?
+Height variation of players? 
+
+Link:
+https://www.kaggle.com/nathanlauga/nba-games?select=games.csv
